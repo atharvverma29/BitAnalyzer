@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Spot Analyzer",
+  "description": "Quantitative Research Terminal for Bitcoin spot market data, technical indicators, deterministic signal engine, and backtesting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
